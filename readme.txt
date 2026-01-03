@@ -54,21 +54,8 @@ The plugin is designed to process your imagery based on your settings. If you se
 
 == Changelog ==
 
-= 1.26010222 =
-* Core hierarchy updated via bmp-support-thisismyurl\core\icons
-
-= 1.26010222 =
-* Core hierarchy updated via Initial Launch
-
-= 1.26010222 =
-* Core hierarchy updated via Initial Launch
 
 = 1.260102 =
-* Core hierarchy updated via bmp-support-thisismyurl\bmp-support-thisismyurl.php
-* Core hierarchy updated via bmp-support-thisismyurl\core\icons\code-active.ico
-* Core hierarchy updated via bmp-support-thisismyurl\core\2682333820516292531891922458163187249407.ico
-* Core hierarchy updated via core
-* Core hierarchy updated via bmp-support-thisismyurl\readme.txt
 * Core hierarchy updated via Initial Launch.
 * Added native MIME support for .bmp files.
 * Implemented dynamic conversion paths for WebP and AVIF output.
