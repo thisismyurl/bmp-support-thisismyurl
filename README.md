@@ -2,7 +2,7 @@
 
 # BMP Support by thisismyurl.com
 ![Version](https://img.shields.io/badge/version-1.26010222-blue.svg)
-🔗 **[Plugin Homepage](https://thisismyurl.com/bmp-support-thisismyurl/#register)**
+🔗 **[Register](https://thisismyurl.com/bmp-support-thisismyurl/#register)**
 
 **BMP Support by thisismyurl.com** is a specialized performance utility designed for users who need to manage BitMap images without compromising their site�s speed or user experience.
 
@@ -24,16 +24,13 @@ Large, uncompressed images are the leading cause of slow page speeds. By transfo
 3. Navigate to **Tools > BMP Support** to configure your preferred handling and quality settings.
 
 ## ❓ FAQ
-= Is this plugin free? =
+### Is this plugin free?
 Yes! The core functionality of the BMP Support plugin is 100% free to download and use on your WordPress site.
-
-= Why should I register for support? =
+### Why should I register for support?
 While the plugin is free, registering your copy provides access to priority technical assistance and ensures you receive automatic updates directly in your dashboard. Registration helps us keep the plugin compatible and secure as WordPress evolves.
-
-= How do I register? =
+### How do I register?
 Visit [https://thisismyurl.com/bmp-support-thisismyurl/#register](https://thisismyurl.com/bmp-support-thisismyurl/#register) to sign up for a support license. Once you have your key, enter it into the "License Key" field in the plugin settings to unlock support.
-
-= Does this delete my original BMP files? =
+### Does this delete my original BMP files?
 The plugin is designed to process your imagery based on your settings. If you select a conversion format (like WebP), it generates an optimized version for web use while adhering to your specified handling mode.
 
 ## 🗺️ Roadmap & Activity
