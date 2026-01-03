@@ -1,4 +1,4 @@
-=== BMP Support by thisismyurl.com ===
+﻿=== BMP Support by thisismyurl.com ===
 Contributors: thisismyurl
 Author: thisismyurl
 Author URI: https://thisismyurl.com/
