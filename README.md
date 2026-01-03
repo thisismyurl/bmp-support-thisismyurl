@@ -1,7 +1,7 @@
-﻿# bmp-support-thisismyurl
+﻿# BMP Support by thisismyurl.com
 ![Version](https://img.shields.io/badge/version-1.260102-blue.svg)
 
-Professional WordPress plugin.
+Modernize your media workflow by enabling BMP uploads and automating their conversion into lightning-fast, next-gen image formats.
 
 ## ðŸ—ºï¸ Roadmap & Activity
 
