@@ -4,12 +4,12 @@
  * Author URI:          https://thisismyurl.com/?source=bmp-support-thisismyurl
  * Plugin Name:         BMP Support by thisismyurl.com
  * Plugin URI:          https://thisismyurl.com/bmp-support-thisismyurl/?source=bmp-support-thisismyurl
- * Donate link:         https://thisismyurl.com/donate/?source=bmp-support-thisismyurl
+ * Donate link:         https://thisismyurl.com/bmp-support-thisismyurl/#register?source=bmp-support-thisismyurl
  * 
  * Description:         Safely enable BMP uploads and convert existing images to AVIF format.
  * Tags:                bmp, uploads, media library, optimization
  * 
- * Version:             1.26010217
+ * Version:             1.260102
  * Requires at least:   5.3
  * Requires PHP:        7.4
  * 
@@ -25,22 +25,12 @@
  * 
  * 
  */
-
-
-
 /**
  * Security: Prevent direct file access to prevent path traversal or unauthorized execution.
  */
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
-
-
-
-
-
-/**
- * Version-aware Core Loader
  *
  * Checks for the existence of the base TIMU_Core_v1 class to ensure the shared 
  * library is loaded exactly once, preventing class redeclaration errors in a 
@@ -190,12 +180,8 @@ class TIMU_BMP_Support extends TIMU_Core_v1 {
 
 		$this->init_settings_generator( $blueprint );
 	}
-
-
 	
 
-	/**
-	 * Default Option Initialization
 	 *
 	 * Adheres to standard update_option logic to avoid overwriting existing user data.
 	 */
@@ -223,21 +209,14 @@ class TIMU_BMP_Support extends TIMU_Core_v1 {
 			array( $this, 'render_settings_page' )
 		);
 	}
-
-
 	/**
 	 * Injects WebP-specific buttons into the Core sidebar.
 	 */
-	public function add_bulk_action_buttons( $current_slug ) {
-		// Only show these buttons on the WebP settings page.
-		if ( $current_slug !== $this->plugin_slug ) {
+	p
 			return;
 		}
 
 	}
-
-
-
 	/**
 	 * Expand MIME Support
 	 *
