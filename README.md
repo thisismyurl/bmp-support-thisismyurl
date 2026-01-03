@@ -1,10 +1,10 @@
 ![Banner](assets/banner-772x250.png)
 
-# BMP Support by thisismyurl.com
+# BMP Support by thisismyurl
 ![Version](https://img.shields.io/badge/version-1.26010222-blue.svg)
 🔗 **[Register](https://thisismyurl.com/bmp-support-thisismyurl/#register)**
 
-**BMP Support by thisismyurl.com** is a specialized performance utility designed for users who need to manage BitMap images without compromising their site�s speed or user experience.
+**BMP Support by thisismyurl** is a specialized performance utility designed for users who need to manage BitMap images without compromising their site�s speed or user experience.
 
 Standard WordPress configurations often restrict BMP uploads because of their massive, uncompressed file sizes. This plugin removes that limitation, allowing you to upload `.bmp` files directly to your Media Library while providing a smart engine to convert them into modern, web-ready formats instantly.
 

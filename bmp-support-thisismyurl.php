@@ -2,7 +2,7 @@
 /**
  * Author:              Christopher Ross
  * Author URI:          https://thisismyurl.com/?source=bmp-support-thisismyurl
- * Plugin Name:         BMP Support by thisismyurl.com
+ * Plugin Name:         BMP Support by thisismyurl
  * Plugin URI:          https://thisismyurl.com/bmp-support-thisismyurl/?source=bmp-support-thisismyurl
  * Donate link:         https://thisismyurl.com/bmp-support-thisismyurl/#register?source=bmp-support-thisismyurl
  * 

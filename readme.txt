@@ -1,4 +1,4 @@
-=== BMP Support by thisismyurl.com ===
+=== BMP Support by thisismyurl ===
 Contributors: thisismyurl
 Author: thisismyurl
 Author URI: https://thisismyurl.com/
@@ -17,7 +17,7 @@ Modernize your media workflow by enabling BMP uploads and automating their conve
 
 == Description ==
 
-**BMP Support by thisismyurl.com** is a specialized performance utility designed for users who need to manage BitMap images without compromising their site’s speed or user experience.
+**BMP Support by thisismyurl** is a specialized performance utility designed for users who need to manage BitMap images without compromising their siteï¿½s speed or user experience.
 
 Standard WordPress configurations often restrict BMP uploads because of their massive, uncompressed file sizes. This plugin removes that limitation, allowing you to upload `.bmp` files directly to your Media Library while providing a smart engine to convert them into modern, web-ready formats instantly.
 
