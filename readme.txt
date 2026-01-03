@@ -1,4 +1,4 @@
-﻿=== BMP Support by thisismyurl.com ===
+=== BMP Support by thisismyurl.com ===
 Contributors: thisismyurl
 Author: thisismyurl
 Author URI: https://thisismyurl.com/
@@ -7,7 +7,7 @@ Support Link: https://thisismyurl.com/contact/
 Tags: svg, media, uploader, image, permissions, timu-core
 Requires at least: 5.3
 Tested up to: 6.9
-Stable tag: 1.260102
+Stable tag: 1.26010222
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 GitHub Plugin URI: https://github.com/thisismyurl/thisismyurl-svg-support/
@@ -17,7 +17,7 @@ Modernize your media workflow by enabling BMP uploads and automating their conve
 
 == Description ==
 
-**BMP Support by thisismyurl.com** is a specialized performance utility designed for users who need to manage BitMap images without compromising their site’s speed or user experience.
+**BMP Support by thisismyurl.com** is a specialized performance utility designed for users who need to manage BitMap images without compromising their site�s speed or user experience.
 
 Standard WordPress configurations often restrict BMP uploads because of their massive, uncompressed file sizes. This plugin removes that limitation, allowing you to upload `.bmp` files directly to your Media Library while providing a smart engine to convert them into modern, web-ready formats instantly.
 
@@ -53,6 +53,15 @@ Visit [https://thisismyurl.com/bmp-support-thisismyurl/#register](https://thisis
 The plugin is designed to process your imagery based on your settings. If you select a conversion format (like WebP), it generates an optimized version for web use while adhering to your specified handling mode.
 
 == Changelog ==
+
+= 1.26010222 =
+* Core hierarchy updated via bmp-support-thisismyurl\core\icons
+
+= 1.26010222 =
+* Core hierarchy updated via Initial Launch
+
+= 1.26010222 =
+* Core hierarchy updated via Initial Launch
 
 = 1.260102 =
 * Core hierarchy updated via bmp-support-thisismyurl\bmp-support-thisismyurl.php
